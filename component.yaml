@@ -7,6 +7,7 @@
 #
 
 id: component1
+name: mongodb-addon
 owner: adrien.lauer@mpsa.com
 url: http://fake.url.org/component-1
 summary: This is the awesome component 1.
